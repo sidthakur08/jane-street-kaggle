@@ -1,0 +1,8 @@
+kaggle_evaluation
+lags.parquet
+test.parquet
+train.parquet
+features.csv
+responders.csv
+sample_submission.csv
+.ipynb_checkpoints/
